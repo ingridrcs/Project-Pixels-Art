@@ -3,8 +3,8 @@ body {
 }
 /** Source : https://www.maujor.com/tutorial/borderplay.php/*/
 .color {
-    width:60px;
-    height:60px;
+    width:40px;
+    height:40px;
     border:1px solid;
     border-color:black;
     display: inline-block;
@@ -28,8 +28,8 @@ body {
 }
 
 .fileira1 {
-    width:60px;
-    height:60px;
+    width:40px;
+    height:40px;
     border:1px solid;
     border-color:black;
     display: inline-block;
@@ -37,8 +37,8 @@ body {
 }
 
 .fileira2 {
-    width:60px;
-    height:60px;
+    width:40px;
+    height:40px;
     border:1px solid;
     border-color:black;
     display: inline-block;
@@ -46,8 +46,8 @@ body {
 }
 
 .fileira3 {
-    width:60px;
-    height:60px;
+    width:40px;
+    height:40px;
     border:1px solid;
     border-color:black;
     display: inline-block;
@@ -55,8 +55,8 @@ body {
 }
 
 .fileira4 {
-    width:60px;
-    height:60px;
+    width:40px;
+    height:40px;
     border:1px solid;
     border-color:black;
     display: inline-block;
@@ -64,8 +64,8 @@ body {
 }
 
 .fileira5 {
-    width:60px;
-    height:60px;
+    width:40px;
+    height:40px;
     border:1px solid;
     border-color:black;
     display: inline-block;
