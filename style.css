@@ -1,73 +1,73 @@
 body {
-    margin:20px;
+margin:20px;
 }
-/** Source : https://www.maujor.com/tutorial/borderplay.php/*/
+/** Source:https://www.maujor.com/tutorial/borderplay.php/ */
 .color {
-    width:40px;
-    height:40px;
-    border:1px solid;
-    border-color:black;
-    display: inline-block;
-    margin-left:5px;
+width:40px;
+height:40px;
+border:1px solid;
+border-color:black;
+display: inline-block;
+margin-left:5px;
 }
 
 .color-black {
-    background-color: black;
+background-color: black;
 }
 
 .color-red {
-    background-color: red;
+background-color: red;
 }
 
 .color-blue {
-    background-color: blue;
+background-color: blue;
 }
 
 .color-green {
-    background-color: green;
+background-color: green;
 }
 
 .fileira1 {
-    width:40px;
-    height:40px;
-    border:1px solid;
-    border-color:black;
-    display: inline-block;
-    background-color: white;
+width:40px;
+height:40px;
+border:1px solid;
+border-color:black;
+display: inline-block;
+background-color: white;
 }
 
 .fileira2 {
-    width:40px;
-    height:40px;
-    border:1px solid;
-    border-color:black;
-    display: inline-block;
-    background-color: white;
+width:40px;
+height:40px;
+border:1px solid;
+border-color:black;
+display: inline-block;
+background-color: white;
 }
 
 .fileira3 {
-    width:40px;
-    height:40px;
-    border:1px solid;
-    border-color:black;
-    display: inline-block;
-    background-color: white;
+width:40px;
+height:40px;
+border:1px solid;
+border-color:black;
+display: inline-block;
+background-color: white;
 }
 
 .fileira4 {
-    width:40px;
-    height:40px;
-    border:1px solid;
-    border-color:black;
-    display: inline-block;
-    background-color: white;
+width:40px;
+height:40px;
+border:1px solid;
+border-color:black;
+display: inline-block;
+background-color: white;
 }
 
 .fileira5 {
-    width:40px;
-    height:40px;
-    border:1px solid;
-    border-color:black;
-    display: inline-block;
-    background-color: white;
+width:40px;
+height:40px;
+border:1px solid;
+border-color:black;
+display: inline-block;
+background-color: white;
 }
