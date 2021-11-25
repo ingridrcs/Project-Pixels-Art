@@ -1,7 +1,7 @@
 body {
 margin:20px;
 }
-/** Source:https://www.maujor.com/tutorial/borderplay.php/ */
+/**REQUISITO-5 - Source: Borda - https://www.maujor.com/tutorial/borderplay.php/ */
 .color {
 width:40px;
 height:40px;
@@ -37,37 +37,37 @@ background-color: white;
 }
 
 .fileira2 {
-width:40px;
-height:40px;
-border:1px solid;
-border-color:black;
-display: inline-block;
-background-color: white;
+  width:40px;
+  height:40px;
+  border:1px solid;
+  border-color:black;
+  display: inline-block;
+  background-color: white;
 }
 
 .fileira3 {
-width:40px;
-height:40px;
-border:1px solid;
-border-color:black;
-display: inline-block;
-background-color: white;
+  width:40px;
+  height:40px;
+  border:1px solid;
+  border-color:black;
+  display: inline-block;
+  background-color: white;
 }
 
 .fileira4 {
-width:40px;
-height:40px;
-border:1px solid;
-border-color:black;
-display: inline-block;
-background-color: white;
+  width:40px;
+  height:40px;
+  border:1px solid;
+  border-color:black;
+  display: inline-block;
+  background-color: white;
 }
 
 .fileira5 {
-width:40px;
-height:40px;
-border:1px solid;
-border-color:black;
-display: inline-block;
-background-color: white;
+  width:40px;
+  height:40px;
+  border:1px solid;
+  border-color:black;
+  display: inline-block;
+  background-color: white;
 }
